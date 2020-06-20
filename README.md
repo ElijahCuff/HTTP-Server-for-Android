@@ -19,5 +19,5 @@ it under MIT License as it seems to be Public Domain, this will allow anyone to 
 
 
 ### Live Demo - Testers, only tested on Android 9.0
-[![demo button](https://i.imgur.com/3Ugm8J7.jpg)](https://github.com/WokeWorld/HTTP-Server-for-Android/blob/master/HTTP%20Server%20for%20Android.apk) 
+[![demo button](https://i.imgur.com/3Ugm8J7.jpg)](https://github.com/WokeWorld/HTTP-Server-for-Android/blob/master/HTTP%20Server%20for%20Android.apk?raw=true) 
 
